@@ -34,8 +34,7 @@ $$
 then
 
 $$
-h(G)\ge \frac{n}{B}\,
-2^{\beta t/\log^{16}t}
+h(G)\ge \frac{n}{B}2^{\beta t/\log^{16}t}.
 $$
 
 for absolute constants $B,\beta>0$. They asked whether the factor
