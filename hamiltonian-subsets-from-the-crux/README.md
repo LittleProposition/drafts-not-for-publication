@@ -146,3 +146,7 @@ the result publicly accessible to researchers interested in Hamiltonian
 subsets, graph crux parameters, long cycles, and related extremal graph
 theory problems. The manuscript may be revised or developed further, and a
 later version may eventually be submitted for publication.
+
+## AI assistance
+
+The author identified the precise point at which the proof had stalled and presented it to GPT-5.5, which located the relevant result of Haslegrave, Hu, Kim, Liu, Luan and Wang.
