@@ -1,5 +1,5 @@
 # informal-combinatorics-notes
-A collection of meaningful drafts that I do not currently plan to publish or post on arXiv. Some rely heavily on AI or computation; others are too short or elementary for a full paper. They are shared for interested researchers. Joint work appears only with all coauthors’ consent, and may still be submitted if developed further.
+This repository contains informal research notes and preliminary drafts. They are not currently intended for publication or submission to arXiv, although some may be developed further in the future. The status and use of AI assistance are described separately for each manuscript. Joint work is posted only with the consent of all coauthors.
 ## Drafts
 
 ### Exponentially Many Hamiltonian Subsets from the Crux
