@@ -224,4 +224,4 @@ GitHub Issues.
 
 ## AI assistance
 
-The initial idea and much of the proof strategy were suggested by an AI system. The author independently checked and verified all mathematical claims, calculations, and arguments in the manuscript.
+The author identified the direction and key point of attack for improving the result of Balogh, Keevash and Sudakov. The proof was then produced by an AI system and subsequently checked in full by the author, including all mathematical claims and computations.
