@@ -221,3 +221,7 @@ eventually be submitted for publication.
 
 Comments, corrections, and reports of possible errors are welcome through
 GitHub Issues.
+
+## AI assistance
+
+The initial idea and much of the proof strategy were suggested by an AI system. The author independently checked and verified all mathematical claims, calculations, and arguments in the manuscript.
