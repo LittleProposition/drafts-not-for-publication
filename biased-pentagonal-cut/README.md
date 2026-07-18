@@ -224,4 +224,7 @@ GitHub Issues.
 
 ## AI assistance
 
-The author identified the direction and key point of attack for improving the result of Balogh, Keevash and Sudakov. The proof was then produced by an AI system and subsequently checked in full by the author, including all mathematical claims and computations.
+The author identified the direction and key point of attack for improving
+the result of Balogh, Keevash and Sudakov. An AI system then generated the
+main proof argument. The author subsequently reconstructed and independently
+verified all mathematical claims, calculations, and uses of external results.
