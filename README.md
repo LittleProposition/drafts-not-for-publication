@@ -12,3 +12,9 @@ We remove the polylogarithmic loss in the Cambie--Gao--Liu lower bound
 for the number of Hamiltonian subsets in terms of the crux parameter.
 
 [Read the manuscript and description](./hamiltonian-subsets-from-the-crux/)
+
+### A Biased Pentagonal Cut and the Bound $\delta_c\le 0.78876$
+
+We improve the Balogh--Keevash--Sudakov upper bound on the minimum-degree threshold for equality between the largest triangle-free and bipartite subgraphs, proving that $\delta_c\le 0.78876$.
+
+[Read the manuscript and description](./biased-pentagonal-cut/)
