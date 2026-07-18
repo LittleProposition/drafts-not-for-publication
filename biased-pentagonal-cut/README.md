@@ -225,6 +225,6 @@ GitHub Issues.
 ## AI assistance
 
 The author identified the direction and key point of attack for improving
-the result of Balogh, Keevash and Sudakov. An AI system then generated the
+the result of Balogh, Keevash and Sudakov. GPT 5.5 then generated the
 main proof argument. The author subsequently reconstructed and independently
 verified all mathematical claims, calculations, and uses of external results.
